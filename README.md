@@ -1,14 +1,15 @@
 # BooksWebAPI
 
 Dependency list
-ASP.Net v8.0 SDK
+Install ASP.Net v8.0 SDK
 
-Install Packages
-"HotChocolate.AspNetCore"
-"Microsoft.AspNetCore.Mvc.NewtonsoftJson"
-"Microsoft.EntityFrameworkCore"
-"Microsoft.EntityFrameworkCore.InMemory"
-"Swashbuckle.AspNetCore"
+Packages used in the project
+
+HotChocolate.AspNetCore
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.InMemory
+Swashbuckle.AspNetCore
 
 To run project
 
