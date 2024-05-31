@@ -14,3 +14,5 @@ To run project
 
 cd BooksWebApi/ 
 dotnet run
+
+To test apis use postman collection
